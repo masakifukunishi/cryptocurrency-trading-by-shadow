@@ -1,0 +1,12 @@
+# jupyter
+__pycache__
+.ipynb_checkpoints
+*.ipynb
+
+# DB
+src/cryptocurrency_data.sql
+# env
+settings.ini
+
+# log
+*.log
