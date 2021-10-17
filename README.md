@@ -27,11 +27,11 @@ Automated trading program for cryptocurrency with shadow :chart_with_upwards_tre
 - Anaconda
   - JupyterLab
 
-## :office: Supported Exchanges
+## :fire: Supported Exchanges
 
 - GMO
 
-## :computer: About Logic
+## :star2: About Logic
 
 The logic is to place a limit order in front of a thick board of sellers and buyers and catch the whiskers.</br>
 
