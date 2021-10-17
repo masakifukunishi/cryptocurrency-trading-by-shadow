@@ -49,7 +49,7 @@ Find a large size order in the grouped board and place a limit order in front of
 
 The price of the limit order is the largest amount before the grouping.
 
-### 3. Close sorder
+### 3. Close Order
 
 If the buy or sell order is executed after 5 seconds, the settlement order is submitted.
 
