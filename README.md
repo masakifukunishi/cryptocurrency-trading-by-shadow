@@ -27,9 +27,33 @@ Automated trading program for cryptocurrency with shadow :chart_with_upwards_tre
 - Anaconda
   - JupyterLab
 
+## Supported Exchanges
+
+- GMO
+
 ## About Logic
 
 The logic is to place a limit order in front of a thick board of sellers and buyers and catch the whiskers.</br>
+
+<div align="center">
+  <img width="700" alt="JupyterLab-logo" src="https://user-images.githubusercontent.com/42294938/137625602-e63d3ecf-334c-4e01-a2ad-4cd6b7dd99e2.jpg" />
+</div>
+
+### 1. Grouping
+
+Fewer orders on the GMO board, so group them together
+
+### 2. Order
+
+Find a large size order in the grouped board and place a limit order in front of it.
+
+The price of the limit order is the largest amount before the grouping.
+
+### 3. Close sorder
+
+If the buy or sell order is executed after 5 seconds, the settlement order is submitted.
+
+Cancel all orders that have not been executed.
 
 ## :memo: Author
 
