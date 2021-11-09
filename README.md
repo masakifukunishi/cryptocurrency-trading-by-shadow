@@ -55,7 +55,7 @@ If the buy or sell order is executed after 5 seconds, the settlement order is su
 
 Cancel all orders that have not been executed.
 
-## :bowtie: Author
+## :tea: Author
 
 - [Twitter](https://twitter.com/masakiapp)
 - [Twitter-JP](https://twitter.com/masakifukunishi)
