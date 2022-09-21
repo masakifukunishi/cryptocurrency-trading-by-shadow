@@ -54,8 +54,3 @@ The price of the limit order is the largest amount before the grouping.
 If the buy or sell order is executed after 5 seconds, the settlement order is submitted.
 
 Cancel all orders that have not been executed.
-
-## :tea: Author
-
-- [Twitter](https://twitter.com/masakiapp)
-- [Twitter-JP](https://twitter.com/masakifukunishi)
