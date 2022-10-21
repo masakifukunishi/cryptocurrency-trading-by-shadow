@@ -1,8 +1,8 @@
 <div align="center">
 
-# cryptocurrency-trading-with-shadow
+# cryptocurrency-trading-by-shadow
 
-Automated trading program for cryptocurrency with shadow :chart_with_upwards_trend:
+Automated trading program for cryptocurrency by shadow :chart_with_upwards_trend:
 
 <a href="https://ubuntu.com/" target="_blank">
   <img width="90" alt="ubuntu-logo" src="https://user-images.githubusercontent.com/42294938/136695374-bf08e2da-217f-4a5e-ad75-f97b58d01fa6.png" />
